@@ -1,0 +1,79 @@
+/*color for whole page*/
+body {
+	/*background-color: #EBEBE0;*/
+	background-color:#102833;
+}
+
+/*#wrap {
+	position: absolute;
+}*/
+
+#top {
+	/*background-color:#8AC1C1;*/
+	display: inline-block;
+	width: 100%;
+}
+
+#student {
+	display: inline-block;
+	padding-right: 1300px;
+	padding-left: 220px;
+}
+
+#logout {
+	display: inline-block;
+	margin: auto;
+}
+
+
+/*navigation box*/
+#nav {
+	/*background-color: #B8B8E6;*/
+	/*color: white;*/
+	position: relative;
+	top:150px;
+	border: solid;
+	margin-right: 550px;
+	margin-left: 285px;
+	padding-left: 50px;
+	text-align: center;
+	/*margin-right: 15%;
+	margin-left: 15%;
+	padding: 10px;*/
+}
+
+/*more nagivation touches, spans each nav*/
+.navigation {
+	font-size: 200%;
+	padding-right: 50px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#contentwrap {
+	/*margin:auto;*/
+	margin-right: 15%;
+	margin-left: 15%;
+	display: inline-block;
+}
+
+#introduction {
+	background-color: white;
+	width: 55%;
+	padding: 20px;
+	margin-top: 100px;
+	display: inline-block;
+	float: left;
+}
+
+#reviews {
+	background-color: white;
+	width: 30%;
+	padding: 20px;
+	margin-top: 100px;
+	display: inline-block;
+	float: right;
+}
+
